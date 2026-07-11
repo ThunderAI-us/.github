@@ -17,6 +17,7 @@ watch, act — all under your authority, with a receipt for everything it does.
 ## The family
 
 - **ThunderGate** — the personal agent runtime. The foundation.
+- **ThunderLoop** — the same engine, business-tuned and connected to Loop Protocol for accountable B2B agent work.
 - **ThunderCommo** — agent-to-human communication. The window; ThunderGate is the house.
 - **ThunderAgent** — your agent on your phone: calls, voicemail, texts, email.
 - **ThunderVault** — secure, end-to-end-encrypted vault control from your pocket.
